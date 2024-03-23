@@ -1,4 +1,4 @@
-# WAVE-SVM - Advancing Supervised Learning with the Wave Loss Function: A Robust and Smooth Approach
+# Wave-SVM - Advancing Supervised Learning with the Wave Loss Function: A Robust and Smooth Approach
 
 
 This code corresponds to the paper Mushir Akhtar, M. Tanveer, and Mohd. Arshad. "Advancing Supervised Learning with the Wave Loss Function: A Robust and Smooth Approach".
